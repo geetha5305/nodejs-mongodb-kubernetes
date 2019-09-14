@@ -1,5 +1,5 @@
 ## Overview
-This sample shows you how to run a simple Hello World Node.js and mongoDB app on Kubernetes using Minikube.
+This sample shows you how to run a simple Node.js and mongoDB app on Kubernetes using Minikube.
 
 ![Kubernetes Relationships](doc/images/kubernetes-relationships.png)
 
