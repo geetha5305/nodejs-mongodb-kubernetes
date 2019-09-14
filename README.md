@@ -4,7 +4,7 @@ This sample shows you how to run a simple Hello World Node.js and mongoDB app on
 ![Kubernetes Relationships](doc/images/kubernetes-relationships.png)
 
 
-## Step by step
+## Please follow below steps to build your app
 ##### [Install Minikube](https://kubernetes.io/docs/tasks/tools/install-minikube/)
 
 - To check if virtualization is supported on macOS, run the following command on your terminal. 
