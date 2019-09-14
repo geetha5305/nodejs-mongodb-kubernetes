@@ -37,12 +37,12 @@ To make hyperkit the default driver:
 `docker build -t <your username>/<image name>:<ver> .`
 
 
-- deployment mongo
+- Deployment mongo
 
 `kubectl create -f pod-nodejs-mongo.yaml`
 
 
-- deployment your app
+- Deployment your app
 
 `kubectl create -f pod-nodejs.yaml`
 
@@ -59,11 +59,11 @@ To make hyperkit the default driver:
 
 `kubectl get service`
 
-- show your service url
+- Show your service url
 
 `minikube service <image name> --url`
  
 
-- show kubernetes dashboard
+- Show kubernetes dashboard
 
 `minikube dashboard`
